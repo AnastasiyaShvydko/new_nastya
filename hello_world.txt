@@ -1,4 +1,6 @@
 hello world!
 Good bye!
+<<<<<<< HEAD
 Hello
+
 
